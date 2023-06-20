@@ -1,0 +1,48 @@
+[ILES]
+Tavula	Rose	135	125	42	75
+Tiamù	Jaune	290	80	222	36
+Tokha	Vert	170	310	86	258
+Ticó	Brun	320	250	277	182
+Kita	Vert	530	195	463	126
+Kosa	Jaune	630	70	572	16
+Kiola	Brun	790	145	739	65
+Khont-Rolah	Brun	675	260	590	217
+Laçao	Jaune	225	540	163	490
+Loümu	Rose	90	645	13	578
+Loà	Rose	315	705	240	614
+Lokha	Vert	140	810	65	752
+Milaù	Jaune	500	530	453	483
+Massao	Rose	560	660	494	614
+Mutaa	Vert	685	490	633	452
+Maÿa	Jaune	725	735	660	692
+Mokah	Brun	855	615	780	565
+Fuego	Rose	955	360	900	306
+Fama	Vert	1090	290	1053	231
+Fissah	Brun	1075	480	1020	414
+Finista	Jaune	1185	385	1116	341
+
+[REGIONS]
+TéhTera	1	2	3	4
+KhaTera	5	6	7	8
+HelTera	9	10	11	12
+EmTera	13	14	15	16	17
+EfTera	18	19	20	21
+
+[ROUTES]
+1	2	4	3	2
+1	3	9	4	1
+10	12	9	10	11	9	13	11
+14	13	15	17	16	15	14	16
+15	8	13	17	20	21	19	20	18	17
+4	5	6	7	5	8
+18	19
+6	8	18	7	8
+
+[BONUS]
+1
+3	9
+4	9
+9	13
+8	15
+8	18
+17	20
